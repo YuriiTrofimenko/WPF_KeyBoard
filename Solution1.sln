@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfHandlers", "WpfHandlers\WpfHandlers\WpfHandlers.csproj", "{C42964D8-B382-471F-B103-8E1456119D78}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfBrushBindingDemo", "WpfBrushBindingDemo\WpfBrushBindingDemo\WpfBrushBindingDemo.csproj", "{DDA19512-CB9D-49E5-B734-B6596625DDCB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Styles", "Styles\Styles.csproj", "{03868746-F630-49BA-998F-27B96A3F948A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C42964D8-B382-471F-B103-8E1456119D78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C42964D8-B382-471F-B103-8E1456119D78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C42964D8-B382-471F-B103-8E1456119D78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C42964D8-B382-471F-B103-8E1456119D78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDA19512-CB9D-49E5-B734-B6596625DDCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDA19512-CB9D-49E5-B734-B6596625DDCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDA19512-CB9D-49E5-B734-B6596625DDCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDA19512-CB9D-49E5-B734-B6596625DDCB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03868746-F630-49BA-998F-27B96A3F948A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03868746-F630-49BA-998F-27B96A3F948A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03868746-F630-49BA-998F-27B96A3F948A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03868746-F630-49BA-998F-27B96A3F948A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6C2AD35D-A6D5-4890-A1BC-E9DC818821B9}
+	EndGlobalSection
+EndGlobal
